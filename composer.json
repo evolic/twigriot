@@ -3,7 +3,7 @@
     "description": "POC implementation of Rendering Riot.js tags in Twig",
     "require": {
         "twig/twig": "^3.0",
-        "symfony/process": "^4.0"
+        "symfony/process": "^4.4"
     },
     "autoload": {
         "psr-0": { "": "src/" }
