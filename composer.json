@@ -2,8 +2,8 @@
     "name": "evolic/twig-riot",
     "description": "POC implementation of Rendering Riot.js tags in Twig",
     "require": {
-        "twig/twig": "~1.0",
-        "symfony/process": "^2.7"
+        "twig/twig": "^3.0",
+        "symfony/process": "^4.0"
     },
     "autoload": {
         "psr-0": { "": "src/" }
